@@ -7,7 +7,7 @@ import wikipedia
 # Flask app should start in global layout
 app = Flask(__name__)
 
-CLIENT_ACCESS_TOKEN = "0333266a23244566a358cb15f15acac3"
+CLIENT_ACCESS_TOKEN = "<INSERT HERE>"
 
 @app.route('/webhook', methods=['POST'])
 def webhook():
@@ -23,7 +23,7 @@ def webhook():
         Company = dict["Company"]
         symbol = checkCompany(Company)
         URL = "https://api.intrinio.com/news?identifier=" + symbol
-        news = requests.get(URL, auth=('4715f1f69a73434e2d17633179fe944b', 'ae73fae697a7f1faa3837c95c827e4cd'))
+        news = requests.get(URL, auth=('<INSERT HERE>', '<INSERT HERE>'))
         news = news.json()['data']
         news = list(news)
         eventList = []

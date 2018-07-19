@@ -1,0 +1,44 @@
+{
+  "id": "eb925407-ac08-46a0-b233-88b8f32e1916",
+  "name": "Company News",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "RecentNews",
+      "affectedContexts": [
+        {
+          "name": "CompanyNews-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "6f7df57f-552e-4bf9-914e-40a119877bdd",
+          "required": false,
+          "dataType": "@Company",
+          "name": "Company",
+          "value": "$Company",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "This service is not available"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531922668,
+  "fallbackIntent": false,
+  "events": []
+}

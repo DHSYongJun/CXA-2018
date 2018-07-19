@@ -1,0 +1,164 @@
+[
+  {
+    "id": "e739d67c-6ff8-43b6-be73-eb3b740a6355",
+    "data": [
+      {
+        "text": "what\u0027s a ",
+        "userDefined": false
+      },
+      {
+        "text": "blue chip stock",
+        "alias": "FinancialTerm",
+        "meta": "@FinancialTerm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531906384
+  },
+  {
+    "id": "08a08419-1f46-497c-a15a-3c8dcf3bf72c",
+    "data": [
+      {
+        "text": "what are ",
+        "userDefined": false
+      },
+      {
+        "text": "blue chips",
+        "alias": "FinancialTerm",
+        "meta": "@FinancialTerm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531906384
+  },
+  {
+    "id": "c7f15fcb-9c32-400a-8cab-2872f2cbcebd",
+    "data": [
+      {
+        "text": "what are ",
+        "userDefined": false
+      },
+      {
+        "text": "stocks",
+        "alias": "FinancialTerm",
+        "meta": "@FinancialTerm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531879612
+  },
+  {
+    "id": "7554f433-64a7-415a-8c2e-61400f772d66",
+    "data": [
+      {
+        "text": "what are ",
+        "userDefined": false
+      },
+      {
+        "text": "shares",
+        "alias": "FinancialTerm",
+        "meta": "@FinancialTerm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1531841347
+  },
+  {
+    "id": "7f4eb4ee-59ec-44da-a470-c4ff5cc855c7",
+    "data": [
+      {
+        "text": "what\u0027s a ",
+        "userDefined": false
+      },
+      {
+        "text": "savings account",
+        "alias": "FinancialTerm",
+        "meta": "@FinancialTerm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531841230
+  },
+  {
+    "id": "0b5fe25f-9e2f-4161-b122-a19f988e8cdd",
+    "data": [
+      {
+        "text": "what is a ",
+        "userDefined": false
+      },
+      {
+        "text": "stock",
+        "alias": "FinancialTerm",
+        "meta": "@FinancialTerm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531841230
+  },
+  {
+    "id": "dedaaef8-5813-4004-be9e-308836950dc5",
+    "data": [
+      {
+        "text": "what is ",
+        "userDefined": false
+      },
+      {
+        "text": "liability",
+        "alias": "FinancialTerm",
+        "meta": "@FinancialTerm",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531841230
+  },
+  {
+    "id": "23875473-202f-41d5-9bfb-f1054f8e705b",
+    "data": [
+      {
+        "text": "what is the definition of a ",
+        "userDefined": false
+      },
+      {
+        "text": "debit card",
+        "alias": "FinancialTerm",
+        "meta": "@FinancialTerm",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531841230
+  },
+  {
+    "id": "4e3e8fa9-8dde-45cf-afe1-fb9c1286b95c",
+    "data": [
+      {
+        "text": "what is a ",
+        "userDefined": false
+      },
+      {
+        "text": "credit card",
+        "alias": "FinancialTerm",
+        "meta": "@FinancialTerm",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531841230
+  }
+]

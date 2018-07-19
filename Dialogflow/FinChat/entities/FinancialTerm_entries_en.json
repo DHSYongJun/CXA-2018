@@ -1,0 +1,366 @@
+[
+  {
+    "value": "credit card",
+    "synonyms": [
+      "credit card",
+      "credit cards"
+    ]
+  },
+  {
+    "value": "debit card",
+    "synonyms": [
+      "debit card",
+      "debit cards"
+    ]
+  },
+  {
+    "value": "liability",
+    "synonyms": [
+      "liability",
+      "liabilities"
+    ]
+  },
+  {
+    "value": "debt",
+    "synonyms": [
+      "debt",
+      "debts"
+    ]
+  },
+  {
+    "value": "savings account",
+    "synonyms": [
+      "savings account",
+      "savings accounts"
+    ]
+  },
+  {
+    "value": "checking account",
+    "synonyms": [
+      "checking account",
+      "checking accounts"
+    ]
+  },
+  {
+    "value": "stock",
+    "synonyms": [
+      "stock",
+      "stocks"
+    ]
+  },
+  {
+    "value": "fixed deposit",
+    "synonyms": [
+      "fixed deposit",
+      "fixed deposits"
+    ]
+  },
+  {
+    "value": "shares",
+    "synonyms": [
+      "shares",
+      "share"
+    ]
+  },
+  {
+    "value": "expense",
+    "synonyms": [
+      "expense",
+      "expenses"
+    ]
+  },
+  {
+    "value": "asset",
+    "synonyms": [
+      "asset",
+      "assets"
+    ]
+  },
+  {
+    "value": "bond",
+    "synonyms": [
+      "bond",
+      "bonds"
+    ]
+  },
+  {
+    "value": "equity",
+    "synonyms": [
+      "equity",
+      "equities"
+    ]
+  },
+  {
+    "value": "income",
+    "synonyms": [
+      "income"
+    ]
+  },
+  {
+    "value": "investment",
+    "synonyms": [
+      "investment",
+      "investments"
+    ]
+  },
+  {
+    "value": "loan",
+    "synonyms": [
+      "loan",
+      "loans"
+    ]
+  },
+  {
+    "value": "atm",
+    "synonyms": [
+      "atm"
+    ]
+  },
+  {
+    "value": "savings",
+    "synonyms": [
+      "savings"
+    ]
+  },
+  {
+    "value": "wealth",
+    "synonyms": [
+      "wealth"
+    ]
+  },
+  {
+    "value": "insurance",
+    "synonyms": [
+      "insurance"
+    ]
+  },
+  {
+    "value": "beneficiary",
+    "synonyms": [
+      "beneficiary"
+    ]
+  },
+  {
+    "value": "bankruptcy",
+    "synonyms": [
+      "bankruptcy"
+    ]
+  },
+  {
+    "value": "cash",
+    "synonyms": [
+      "cash"
+    ]
+  },
+  {
+    "value": "bank",
+    "synonyms": [
+      "bank",
+      "banks"
+    ]
+  },
+  {
+    "value": "trade",
+    "synonyms": [
+      "trades",
+      "trade"
+    ]
+  },
+  {
+    "value": "balance sheet",
+    "synonyms": [
+      "balance sheet",
+      "balance sheets"
+    ]
+  },
+  {
+    "value": "accounting",
+    "synonyms": [
+      "accounting"
+    ]
+  },
+  {
+    "value": "accountancy",
+    "synonyms": [
+      "accountancy"
+    ]
+  },
+  {
+    "value": "commodity",
+    "synonyms": [
+      "commodity",
+      "commodities"
+    ]
+  },
+  {
+    "value": "oil",
+    "synonyms": [
+      "oil"
+    ]
+  },
+  {
+    "value": "gold",
+    "synonyms": [
+      "gold"
+    ]
+  },
+  {
+    "value": "future",
+    "synonyms": [
+      "future",
+      "futures"
+    ]
+  },
+  {
+    "value": "trading",
+    "synonyms": [
+      "trading"
+    ]
+  },
+  {
+    "value": "budget",
+    "synonyms": [
+      "budget",
+      "budgets"
+    ]
+  },
+  {
+    "value": "mutual fund",
+    "synonyms": [
+      "mutual fund",
+      "mutual funds"
+    ]
+  },
+  {
+    "value": "real estate",
+    "synonyms": [
+      "real estate"
+    ]
+  },
+  {
+    "value": "money",
+    "synonyms": [
+      "money"
+    ]
+  },
+  {
+    "value": "cash flow",
+    "synonyms": [
+      "cash flow"
+    ]
+  },
+  {
+    "value": "blue chip",
+    "synonyms": [
+      "blue chip",
+      "blue chips",
+      "blue chip stocks",
+      "blue chip stock"
+    ]
+  },
+  {
+    "value": "buyer",
+    "synonyms": [
+      "buyer",
+      "buyers"
+    ]
+  },
+  {
+    "value": "seller",
+    "synonyms": [
+      "seller",
+      "sellers"
+    ]
+  },
+  {
+    "value": "market",
+    "synonyms": [
+      "market",
+      "markets"
+    ]
+  },
+  {
+    "value": "economy",
+    "synonyms": [
+      "economy",
+      "economies"
+    ]
+  },
+  {
+    "value": "currency",
+    "synonyms": [
+      "currency",
+      "currencies"
+    ]
+  },
+  {
+    "value": "equity finance",
+    "synonyms": [
+      "equity finance",
+      "equity",
+      "equities"
+    ]
+  },
+  {
+    "value": "automated teller machine",
+    "synonyms": [
+      "automated teller machine",
+      "atm"
+    ]
+  },
+  {
+    "value": "dow jones industrial average",
+    "synonyms": [
+      "dow jones",
+      "Dow Jones Industrial Average"
+    ]
+  },
+  {
+    "value": "nasdaq",
+    "synonyms": [
+      "nasdaq"
+    ]
+  },
+  {
+    "value": "s\u0026p 500",
+    "synonyms": [
+      "Standard \u0026 Poor\u0027s 500",
+      "S\u0026P 500",
+      "S\u0026P500",
+      "S\u0026P",
+      "S\u0026P index"
+    ]
+  },
+  {
+    "value": "Stock market index",
+    "synonyms": [
+      "index",
+      "indexes",
+      "stock indexes",
+      "Stock market index"
+    ]
+  },
+  {
+    "value": "exchange-traded fund",
+    "synonyms": [
+      "exchange-traded fund",
+      "exchange-traded funds",
+      "exchange traded fund",
+      "exchange traded funds",
+      "etf"
+    ]
+  },
+  {
+    "value": "index fund",
+    "synonyms": [
+      "index fund",
+      "index funds"
+    ]
+  },
+  {
+    "value": "saving",
+    "synonyms": [
+      "saving"
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+{
+  "id": "4712049a-297e-4440-9ead-4ee9716fb04c",
+  "name": "Definition",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "InvestopediaDefinition",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "bc06b4ee-9f35-48d0-b3ec-1ad369bab8ee",
+          "required": true,
+          "dataType": "@FinancialTerm",
+          "name": "FinancialTerm",
+          "value": "$FinancialTerm",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "This service is not available"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531906384,
+  "fallbackIntent": false,
+  "events": []
+}

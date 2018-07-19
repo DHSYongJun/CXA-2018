@@ -1,0 +1,122 @@
+[
+  {
+    "id": "207a5577-160d-482d-adfd-458c06cad838",
+    "data": [
+      {
+        "text": "how old is your platform",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6f2a43ce-3d86-4ed1-b877-e2eef939f25e",
+    "data": [
+      {
+        "text": "what\u0027s your age",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "47631124-2f06-43ea-b370-587b39bcf0af",
+    "data": [
+      {
+        "text": "tell me your age",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "38d3fb60-8d66-47fd-a5fe-b184ba468a6c",
+    "data": [
+      {
+        "text": "your",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " age",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6ab89f2e-aedb-4727-8fc4-74b6765cd082",
+    "data": [
+      {
+        "text": "I\u0027d like to know your age",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dc7f101a-5f38-4892-a924-8809926bcd44",
+    "data": [
+      {
+        "text": "are you ",
+        "userDefined": false
+      },
+      {
+        "text": "21",
+        "alias": "age",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " years old",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b5f31f2f-e94c-46ba-abdf-9d4cfe710fe0",
+    "data": [
+      {
+        "text": "age of yours",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8294cfa8-ad49-4138-8558-489987372f44",
+    "data": [
+      {
+        "text": "how old ",
+        "userDefined": false
+      },
+      {
+        "text": "are",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

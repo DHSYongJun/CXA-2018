@@ -1,0 +1,124 @@
+[
+  {
+    "id": "b0d0d89b-4b2f-4ad3-b3ef-8068332039cf",
+    "data": [
+      {
+        "text": "I\u0027m not happy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529441206
+  },
+  {
+    "id": "ab9521fc-4565-439c-804b-668f73678e13",
+    "data": [
+      {
+        "text": "I\u0027m having a bad day",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529441206
+  },
+  {
+    "id": "e1f5ad36-0caa-4411-a901-4cf5f658abb6",
+    "data": [
+      {
+        "text": "I am feeling sad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529441206
+  },
+  {
+    "id": "a280cf05-63db-4825-ae09-b52e82502183",
+    "data": [
+      {
+        "text": "I am upset",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529441206
+  },
+  {
+    "id": "cc436d22-7043-4fff-bce9-eba6f1aa0801",
+    "data": [
+      {
+        "text": "I",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " want ",
+        "userDefined": false
+      },
+      {
+        "text": "to",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " cry",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529441206
+  },
+  {
+    "id": "31d78e38-9374-45b0-ad96-6e1fd3f54d52",
+    "data": [
+      {
+        "text": "I am depressed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529441206
+  },
+  {
+    "id": "1eebc674-5b4a-4544-8d58-34175cffcdfe",
+    "data": [
+      {
+        "text": "I\u0027m unhappy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529441206
+  },
+  {
+    "id": "6ed9cd81-dab8-4807-ae42-d6dd646ed4a8",
+    "data": [
+      {
+        "text": "I\u0027m grieving",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529441206
+  },
+  {
+    "id": "66aff767-de30-4806-a240-4ea5d55e8681",
+    "data": [
+      {
+        "text": "I am sad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529441206
+  }
+]

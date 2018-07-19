@@ -1,0 +1,145 @@
+[
+  {
+    "id": "ba7e7af0-4365-49b6-bcfc-3d23687c9738",
+    "data": [
+      {
+        "text": "who is ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " boss",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529427042
+  },
+  {
+    "id": "7c48bbd3-6328-4a05-8ca6-955f6aad6fbc",
+    "data": [
+      {
+        "text": "who",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " is the boss",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529427042
+  },
+  {
+    "id": "16c188a9-d1c5-42d3-a62f-194bcbbb7a8b",
+    "data": [
+      {
+        "text": "who do you ",
+        "userDefined": false
+      },
+      {
+        "text": "work",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " for",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529427042
+  },
+  {
+    "id": "14b8801e-47d4-41fb-8c60-8e974d650c65",
+    "data": [
+      {
+        "text": "who do you think is ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " boss",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529427042
+  },
+  {
+    "id": "a4a53f2e-c614-4f2f-aa32-cc961b918385",
+    "data": [
+      {
+        "text": "I should be ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " boss",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529427042
+  },
+  {
+    "id": "79829ca6-f37f-4c71-bdc6-b06c9f29a043",
+    "data": [
+      {
+        "text": "who is ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " master",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529427042
+  },
+  {
+    "id": "12dad889-5c4b-4db5-bf85-12e49f36f41c",
+    "data": [
+      {
+        "text": "who is ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " owner",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529427042
+  }
+]

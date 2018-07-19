@@ -1,0 +1,92 @@
+[
+  {
+    "id": "28844e12-9755-4795-967e-edaf21f284a9",
+    "data": [
+      {
+        "text": "latest news ",
+        "userDefined": false
+      },
+      {
+        "text": "google",
+        "alias": "Company",
+        "meta": "@Company",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531922668
+  },
+  {
+    "id": "5c33c004-4b24-4138-b531-ae8b9210372b",
+    "data": [
+      {
+        "text": "news about ",
+        "userDefined": false
+      },
+      {
+        "text": "microsoft",
+        "alias": "Company",
+        "meta": "@Company",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531922668
+  },
+  {
+    "id": "faf3050a-cc63-4535-818a-7ed04a81214f",
+    "data": [
+      {
+        "text": "what\u0027s up with ",
+        "userDefined": false
+      },
+      {
+        "text": "microsoft",
+        "alias": "Company",
+        "meta": "@Company",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531922668
+  },
+  {
+    "id": "6625a1da-54ce-4f91-95dd-18cc007e7795",
+    "data": [
+      {
+        "text": "i want recent news about ",
+        "userDefined": false
+      },
+      {
+        "text": "google",
+        "alias": "Company",
+        "meta": "@Company",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531922668
+  },
+  {
+    "id": "93a8193b-2a7c-4be7-95d4-d3339fcc5287",
+    "data": [
+      {
+        "text": "give me the latest news on ",
+        "userDefined": false
+      },
+      {
+        "text": "apple",
+        "alias": "Company",
+        "meta": "@Company",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531922668
+  }
+]

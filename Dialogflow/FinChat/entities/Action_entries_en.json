@@ -1,0 +1,46 @@
+[
+  {
+    "value": "apply",
+    "synonyms": [
+      "apply",
+      "applies",
+      "applied"
+    ]
+  },
+  {
+    "value": "buy",
+    "synonyms": [
+      "buy",
+      "buys",
+      "bought"
+    ]
+  },
+  {
+    "value": "set up",
+    "synonyms": [
+      "set up",
+      "sets up"
+    ]
+  },
+  {
+    "value": "create",
+    "synonyms": [
+      "create",
+      "creates"
+    ]
+  },
+  {
+    "value": "purchase",
+    "synonyms": [
+      "purchase",
+      "purchases"
+    ]
+  },
+  {
+    "value": "get",
+    "synonyms": [
+      "get",
+      "gets"
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+{
+  "id": "4efb69c0-3f36-4b17-a759-148183cefd5b",
+  "parentId": "eb925407-ac08-46a0-b233-88b8f32e1916",
+  "rootParentId": "eb925407-ac08-46a0-b233-88b8f32e1916",
+  "name": "Company News - custom",
+  "auto": true,
+  "contexts": [
+    "CompanyNews-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CompanyNews.CompanyNews-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "87dbb845-8af2-4bd4-ac87-ffd9aca62b04",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        },
+        {
+          "id": "9a3edab2-2494-4d78-a967-ede40ab35454",
+          "dataType": "@sys.ordinal",
+          "name": "ordinal",
+          "value": "$ordinal",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "This service is not available"
+        },
+        {
+          "type": 0,
+          "lang": "en-us",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "en-gb",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "en-ca",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "en-au",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531979016,
+  "fallbackIntent": false,
+  "events": []
+}

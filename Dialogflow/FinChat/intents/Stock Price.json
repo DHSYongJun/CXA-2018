@@ -1,0 +1,28 @@
+{
+  "id": "823f0a5f-e831-4c19-a1dc-2e2a6fc5277f",
+  "name": "Stock Price",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531978698,
+  "fallbackIntent": false,
+  "events": []
+}

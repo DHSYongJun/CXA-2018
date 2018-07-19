@@ -1,0 +1,20 @@
+[
+  {
+    "value": "Apple",
+    "synonyms": [
+      "Apple"
+    ]
+  },
+  {
+    "value": "Google",
+    "synonyms": [
+      "Google"
+    ]
+  },
+  {
+    "value": "Microsoft",
+    "synonyms": [
+      "Microsoft"
+    ]
+  }
+]

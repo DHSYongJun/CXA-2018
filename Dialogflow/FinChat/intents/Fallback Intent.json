@@ -1,0 +1,32 @@
+{
+  "id": "2f321484-63f8-4a79-9669-cb4a2716a70c",
+  "name": "Fallback Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "I don\u0027t really understand you. Can you try asking in a different way?",
+            "Sorry I\u0027m having trouble understanding your question.",
+            "Sorry, I didn\u0027t quite grasp what you just said."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531889248,
+  "fallbackIntent": true,
+  "events": []
+}
